@@ -1,0 +1,51 @@
+code {
+    font-size: 20px;
+}
+
+img {
+    width: 500px;
+}
+
+nav {
+    left: 0px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#navbar {
+    position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+}
+
+nav ul li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    text-align: center;
+}
+
+#id {
+    color: rgb(105, 31, 31);
+}
+
+@media screen and (max-width: 750px) {}
